@@ -1,0 +1,10 @@
+{
+  "name": "sso-lite-backend",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@workos-inc/node": "^7.0.0",
+    "firebase-admin": "^12.5.0",
+    "nanoid": "^5.0.7"
+  }
+}
